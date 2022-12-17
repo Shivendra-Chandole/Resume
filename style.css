@@ -253,4 +253,5 @@ p6{
     font-size: 14px;
     color: var(--black);
     text-align: auto;
+   font-style: italic;
 }
