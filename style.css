@@ -247,9 +247,9 @@ h1 span {
     font-size: 12px;
     color: var(--white);
 }
-p6{
+.p6{
     font-size: 14px;
     color: var(--black);
     font-style: italic;
-    text-align: auto;
+    text-align: justify;
 }
